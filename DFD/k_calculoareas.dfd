@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+120
+'Seleccione la figura geométrica para la cual desea calcular el área: 1. Triángulo 2. Cuadrado 3. Rectángulo 4. Círculo'
+5
+1
+6
+opcion
+7
+0
+1
+8
+opcion=1
+7
+0
+1
+8
+opcion=2
+7
+0
+1
+8
+opcion=3
+7
+0
+1
+8
+opcion=4
+4
+1
+37
+'Debes Seleccionar una opción valida'
+13
+4
+1
+30
+'Ingrese el radio del círculo'
+5
+1
+5
+radio
+4
+1
+47
+'El área del círculo es ', 3.141592*radio*radio
+13
+13
+4
+1
+95
+'Para calcular el area de un rectangulo, primero ingrese el valor de la base y luego la altura'
+5
+1
+12
+base, altura
+4
+1
+43
+'El area del rectangulo es ', (base*altura)
+13
+13
+4
+1
+40
+'Ingrese el valor del lado del cuadrado'
+5
+1
+4
+lado
+4
+1
+37
+'El área del cuadrado es ', lado*lado
+13
+13
+4
+1
+91
+'Para calcular el area del triangulo primero ingrese el valor de la base y luego la altura'
+5
+1
+12
+base, altura
+4
+1
+44
+'El area del triangulo es ', (base*altura)/2
+13
+1

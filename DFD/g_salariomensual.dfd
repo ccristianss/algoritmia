@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese su nombre'
+5
+1
+6
+nombre
+4
+1
+48
+'ingrese la cantidad de horas trabajadas al mes'
+5
+1
+8
+horasmes
+4
+1
+23
+'ingrese el valor hora'
+5
+1
+9
+valorhora
+4
+1
+81
+'El trabajador ', nombre, ' gana mensualmente un salario de ', horasmes*valorhora
+1

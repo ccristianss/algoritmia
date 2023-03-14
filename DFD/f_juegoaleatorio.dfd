@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Adivina un número entre 0 y  10'
+5
+1
+7
+entrada
+7
+0
+1
+18
+entrada=RANDOM(10)
+4
+1
+44
+'Ohhh, lo siento, el numero era el ', numero
+13
+4
+1
+60
+'Felicidades! Adivinaste, el numero', numero, ' es correcto'
+13
+1

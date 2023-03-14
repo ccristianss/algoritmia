@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+10
+valordolar
+7
+4722.83
+4
+1
+61
+'Ingrese los dolares que desea convertir a pesos colombianos'
+5
+1
+5
+dolar
+4
+1
+65
+dolar, ' USD es igual a ', dolar*valordolar, ' pesos Colombianos'
+1

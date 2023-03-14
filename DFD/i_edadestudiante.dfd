@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+11
+anio_actual
+4
+2023
+4
+1
+97
+'Por favor primero ingrese su nombre entre comillas simples y luego ingrese su año de nacimiento'
+5
+1
+12
+nombre, anio
+4
+1
+62
+'El estudiante ', nombre, ' tiene ', anio_actual-anio, ' años'
+1

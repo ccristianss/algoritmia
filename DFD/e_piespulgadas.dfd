@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+13
+pulgadasmetro
+5
+39.37
+11
+pulgadaspie
+2
+12
+4
+1
+31
+'Ingrese la cantidad de Metros'
+5
+1
+6
+metros
+6
+3
+13
+totalpulgadas
+20
+metros*pulgadasmetro
+4
+pies
+32
+TRUNC(totalpulgadas/pulgadaspie)
+8
+pulgadas
+29
+totalpulgadas MOD pulgadaspie
+4
+1
+38
+pies, ' Pies y ',pulgadas, ' pulgadas'
+1

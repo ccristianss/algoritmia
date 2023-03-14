@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+'Seleccione una opción 1. Convertir años a meses 2. Convertir Meses a Años'
+5
+1
+6
+opcion
+7
+0
+1
+8
+opcion=1
+7
+0
+1
+8
+opcion=2
+4
+1
+37
+'Debes Seleccionar una opción valida'
+13
+4
+1
+52
+'Ingrese la cantidad de meses para convertir a años'
+5
+1
+5
+meses
+4
+1
+48
+meses, ' meses es igual a ', (meses/12), ' años'
+13
+13
+4
+1
+52
+'Ingrese la cantidad de años para convertir a meses'
+5
+1
+5
+anios
+4
+1
+48
+anios, ' años es igual a ', (anios*12), ' meses'
+13
+1
