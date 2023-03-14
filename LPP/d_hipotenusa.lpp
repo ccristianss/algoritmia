@@ -1,0 +1,12 @@
+Entero c_a, c_b
+Real h
+Inicio
+	Escriba "Para calcular la hipotenusa digite la longitud del cateto A"
+	Llamar nueva_linea
+	Lea c_a
+	Escriba "Ahora, digite la longitud del cateto B"
+	Llamar nueva_linea
+	Lea c_b
+	h<- ((c_a^2)+(c_b^2))^(1/2)
+	Escriba "La hipotenusa es: ",h
+Fin

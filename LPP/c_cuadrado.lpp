@@ -1,0 +1,7 @@
+Entero numero
+Inicio
+	Escriba "Escriba un numero para saber su cuadrado"
+	Llamar Nueva_linea
+	Lea numero
+	Escriba "El cuadrado de ", numero, " es ", (numero^2)
+Fin

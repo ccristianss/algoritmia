@@ -1,0 +1,21 @@
+Entero pies,pulgadaspie,metros, totalpulgadas
+Real pulgadasmetro, pulgadas
+Inicio
+	pulgadasmetro<-39.37
+	pulgadaspie<-12
+	escriba pulgadasmetro
+	llamar nueva_linea
+	escriba "Ingrese la longitud en metros"
+	llamar nueva_linea
+	lea metros
+	totalpulgadas <- (metros*pulgadasmetro)
+	escriba totalpulgadas, " totalpulgadas"
+	llamar nueva_linea
+	pies<-(totalpulgadas div pulgadaspie)
+	escriba pies, " pies"
+	llamar nueva_linea
+	pulgadas<-(totalpulgadas mod pulgadaspie)
+	escriba pulgadas, " pulgadas"
+	llamar nueva_linea
+	escriba pies, " Pies y ",pulgadas, " pulgadas"
+Fin

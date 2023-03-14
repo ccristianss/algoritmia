@@ -1,0 +1,8 @@
+Entero n1, n2
+Inicio
+	Escriba "Ingresar el primer numero"
+	Lea n1
+	Escriba "Ingresar el segundo numero"
+	Lea n2
+	Escriba "El resultado de la suma es: ", n1+n2
+Fin

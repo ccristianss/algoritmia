@@ -1,0 +1,10 @@
+Real distancia, tiempomedio
+Entero horas, minutos
+Inicio
+	distancia <-42.195
+	horas <-2
+	minutos <-25
+	minutos<- (minutos+(horas*60))
+	tiempomedio<- (minutos/distancia)
+	Escriba "El tiempo medio es de: ",tiempomedio
+Fin
