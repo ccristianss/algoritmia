@@ -1,0 +1,8 @@
+Real al
+Inicio
+	escriba "Adivina un numero entre 0 y  10"
+	llamar nueva_linea
+	llamar inicializar_aleatorio
+	al <- Aleatorio()
+	
+Fin
